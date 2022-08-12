@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Alignable Structures',
+  tagline: 'A workshop by EA Philly',
+  url: 'https://alignable-structures.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/quinn-dougherty/alignable-structures',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,10 +60,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/quinn-dougherty/alignable-structures',
             label: 'GitHub',
             position: 'right',
           },
@@ -76,7 +76,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'EA Philly',
-                href: 'https://eahub.org/group/philadelphia-ea/',
+                href: 'https://eahub.org/group/philadelphia-ea',
               },
 
             ],
