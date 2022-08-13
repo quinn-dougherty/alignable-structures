@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Alignable Structures',
-  tagline: 'A workshop by EA Philly',
+  tagline: 'A workshop by EA Philly | November 3-6 2022',
   url: 'https://alignable-structures.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -85,10 +85,13 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'Manifold Markets group for the workshop',
+                href: 'https://manifold.markets/group/alignable-structures-2022',
+              },
+              {
                 label: 'EA Philly',
                 href: 'https://eahub.org/group/philadelphia-ea',
               },
-
             ],
           },
           {
