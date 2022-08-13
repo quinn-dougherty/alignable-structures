@@ -63,8 +63,8 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/quinn-dougherty/alignable-structures',
-            label: 'GitHub',
+            href: 'https://manifold.markets/group/alignable-structures-2022',
+            label: 'Manifold',
             position: 'right',
           },
         ],
@@ -91,15 +91,6 @@ const config = {
               {
                 label: 'EA Philly',
                 href: 'https://eahub.org/group/philadelphia-ea',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/quinn-dougherty/alignable-structures',
               },
             ],
           },

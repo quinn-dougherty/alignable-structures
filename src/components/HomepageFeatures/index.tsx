@@ -10,32 +10,47 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Do not share',
     Svg: require('@site/static/img/ideogram.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        By invitation only. Docs site is publicly listed, but we do not want it posted anywhere.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Funded',
     Svg: require('@site/static/img/ideogram.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Food, flights, airbnb covered by the Long Term Future Fund
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Please submit your session by October 1st',
     Svg: require('@site/static/img/ideogram.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We'd like the schedule to cool down around the first week of october, subject to changes and exceptions.
+      </>
+    ),
+  },
+  {
+    title: 'Discord for updates',
+    Svg: require('@site/static/img/ideogram.svg').default,
+    description: (
+      <>
+        You should have received an invite link to the discord. It is the main communication channel for the workshop, please join it.
+      </>
+    ),
+  },
+  {
+    title: 'Google calendar for schedule',
+    Svg: require('@site/static/img/ideogram.svg').default,
+    description: (
+      <>
+        You can find a link in the discord.
       </>
     ),
   },
