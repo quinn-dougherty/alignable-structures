@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Alignable Structures',
-  tagline: 'A workshop by EA Philly | November 3-6 2022',
+  tagline: 'A safety workshop by EA Philly | November 3-6 2022',
   url: 'https://alignable-structures.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
