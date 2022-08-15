@@ -19,15 +19,20 @@
       src = ./.;
       packageJSON = ./package.json;
       yarnLock = ./yarn.lock;
+      pkgConfig.postInstall = "yarn --offline build";
     };
     docusaurus = pkgs.stdenv.mkDerivation {
       name = "Alignable Structures";
-      src = site-source + "/libexec/alignable-structures/deps/alignable-structures";
+      src = site-source + "/libexec/alignable-structures";
       buildInputs = with pkgs; [ yarn ];
-      buildPhase = "yarn --offline build";
+      buildPhase = ''
+        pushd deps/alignable-structures
+        yarn --offline build
+        popd
+      '';
       installPhase = ''
         mkdir -p $out
-        cp -r build $out
+        cp -r $src/build $out
       '';
     };
     in {
