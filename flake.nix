@@ -14,23 +14,22 @@
       overlays = [];
     };
     effects = hercules-ci-effects.lib.withPkgs pkgs;
-    docusaurus = pkgs.mkYarnPackage {
+    site-source = pkgs.mkYarnPackage {
       name = "alignablestructures-docusaurus_source";
       src = ./.;
       packageJSON = ./package.json;
       yarnLock = ./yarn.lock;
-      yarnPostBuild = "yarn --offline build";
     };
-#    docusaurus = pkgs.stdenv.mkDerivation {
-#      name = "Alignable Structures";
-#      src = site-source + "/libexec/alignable-structures";
-#      buildInputs = with pkgs; [ yarn ];
-#      buildPhase = "yarn --cwd=deps/alignable-structures --offline build";
-#      installPhase = ''
-#        mkdir -p $out
-#        cp -r build $out
-#      '';
-#    };
+    docusaurus = pkgs.stdenv.mkDerivation {
+      name = "Alignable Structures";
+      src = site-source + "/libexec/alignable-structures/deps/alignable-structures";
+      buildInputs = with pkgs; [ yarn ];
+      buildPhase = "yarn --offline build";
+      installPhase = ''
+        mkdir -p $out
+        cp -r build $out
+      '';
+    };
     in {
       packages.${system}.docusaurus = docusaurus;
       defaultPackage.${system} = self.packages.${system}.docusaurus;
