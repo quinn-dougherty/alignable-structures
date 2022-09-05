@@ -7,4 +7,4 @@ A safety workshop by Effective Altruism Philadelphia on
 - Foundations for new training processes
 - Rethinking learning and agency 
 - Bringing together people who think in terms of math with people who think in terms of pytorch
-
+- Red teaming, threat-modeling dual-use properties
