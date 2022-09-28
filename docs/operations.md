@@ -14,7 +14,7 @@ Help us improve
 Post or start a thread in the `#feedback` channel on discord, or DM @quinn#9100 
 
 ### Above our pay grade
-For problems that you think the team can't handle, through incompetence or conflict of interest or etc., please email Julia Wise at julia@centreforeffectivealtruism.org
+For problems that you think the team can't handle, through conflict of interest or any other reason, please email Julia Wise at julia@centreforeffectivealtruism.org
 
 ## Lodging
 
