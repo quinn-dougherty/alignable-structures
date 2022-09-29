@@ -3,6 +3,14 @@ sidebar_position: 2
 ---
 # Operations
 
+## Contact
+
+Your plan A is to contact Quinn over discord. He is `quinn#9100`. 
+
+Failing that, you can email `quinnd at riseup dot net` or signal/sms/voice `(+1) 484 883 9487`.
+
+Failing that, you can contact Stephen over discord, he is `Stephen Mell#7185`; on signal/sms/voice `(+1) 407 494 1337`. 
+
 ## Feedback
 
 Help us improve
@@ -11,7 +19,7 @@ Help us improve
 [This](https://docs.google.com/forms/d/e/1FAIpQLSdWmOslh4je1YL-aPzKx3HIY7Ky726uV7CLzTT6BgciLwfo7w/viewform?usp=sf_link) form will be monitored by Quinn D, and visible to Stephen Mell. If we add teammembers to ops, we will delete this form and make a new one. 
 
 ### Non-anonymous feedback
-Post or start a thread in the `#feedback` channel on discord, or DM @quinn#9100 
+Post or start a thread in the `#feedback` channel on discord, or DM `quinn#9100`
 
 ### Above our pay grade
 For problems that you think the team can't handle, through conflict of interest or any other reason, please email Julia Wise at julia@centreforeffectivealtruism.org
