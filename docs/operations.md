@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # Operations
 
+FAQ
+
 ## Contact
 
 Your plan A is to contact Quinn over discord. He is `quinn#9100`. 
@@ -36,9 +38,11 @@ We'll book it from wednesday afternoon (the 2nd) to monday morning (the 7th).
 
 ## Reimbursement
 
-Send charges to Quinn D's venmo (info in discord)
+Send charges to Quinn D's venmo (info in discord). If you can't use venmo for whatever reason, DM Quinn D. 
 
-If you can't use venmo for whatever reason, DM Quinn D. 
+**Please** do not send me more than `$125` total in ubers. While within Philly, the major train lines that are `$2.50`/ride will take care of you getting from airbnb to venue. 
+
+Wednesday and Thursday (2nd and 3rd) night dinners, and all day off (Saturday the 5th) activities are not reimbursable. If you're _extremely_ cash constrained and find this burdensome, reach out to quinn#9100. This isn't a massively budgeted super VIP operation, but we don't want social activities to exclude people. 
 
 ## Day Off
 
