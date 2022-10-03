@@ -13,7 +13,7 @@ Failing that, you can contact Stephen over discord, he is `Stephen Mell#7185`; o
 
 ## Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=fkfkjlvou7cjuj77pmc70954pg%40group.calendar.google.com&ctz=America%2FNew_York" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=fkfkjlvou7cjuj77pmc70954pg%40group.calendar.google.com&ctz=America%2FNew_York" width="100%" height="100%" frameborder="0" scrolling="yes"></iframe>
 
 ## Feedback
 
