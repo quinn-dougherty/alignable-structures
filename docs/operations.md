@@ -11,6 +11,10 @@ Failing that, you can email `quinnd at riseup dot net` or signal/sms/voice `(+1)
 
 Failing that, you can contact Stephen over discord, he is `Stephen Mell#7185`; on signal/sms/voice `(+1) 407 494 1337`. 
 
+## Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=fkfkjlvou7cjuj77pmc70954pg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Feedback
 
 Help us improve
