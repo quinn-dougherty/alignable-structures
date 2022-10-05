@@ -65,7 +65,7 @@ Coordinate in discord
 
 ### Hold an unconference
 
-On-the-fly sessions in the airbnb are welcome. 
+On-the-fly sessions in the airbnb are welcome. I'll bring my house's whiteboard over there. 
 
 ### Explore the city
 

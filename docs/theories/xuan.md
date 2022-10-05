@@ -12,3 +12,6 @@ The Planning Domain Definition Language (PDDL) is a formal specification languag
 
 This talk will also serve as an introduction to the symbolic planning paradigm of AI, how it can be integrated with Bayesian methods like probabilistic programming, its relevance to inner alignment and interpretability, and its prospects as an alternative (potentially safer) scaling route to pure deep learning.
 
+## Keywords
+- Probabilistic programming
+- Planning
