@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 ---
-# Nisan Steinnon
+# Nisan Stiennon
 
 ## Towards higher-order game theory
 
