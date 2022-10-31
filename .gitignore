@@ -18,3 +18,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# pandoc/kickoff talk
+*.pdf
+*.html
+*.log
+result
+result-*
+_*
