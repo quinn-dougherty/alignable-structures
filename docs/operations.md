@@ -10,9 +10,7 @@ FAQ
 
 Your plan A is to contact Quinn over discord. He is `quinn#9100`.
 
-Failing that, you can email `quinnd at riseup dot net` or signal/sms/voice `(+1) 484 883 9487`.
-
-Failing that, you can contact Stephen over discord, he is `Stephen Mell#7185`; on signal/sms/voice `(+1) 407 494 1337`.
+Failing that, you can contact Stephen over discord, he is `Stephen Mell#7185`
 
 ## Calendar
 
@@ -24,7 +22,7 @@ Help us improve
 
 ### Anonymous feedback
 
-[This](https://docs.google.com/forms/d/e/1FAIpQLSdWmOslh4je1YL-aPzKx3HIY7Ky726uV7CLzTT6BgciLwfo7w/viewform?usp=sf_link) form will be monitored by Quinn D, and visible to Stephen Mell. If we add teammembers to ops, we will delete this form and make a new one.
+[This](https://docs.google.com/forms/d/e/1FAIpQLSdWmOslh4je1YL-aPzKx3HIY7Ky726uV7CLzTT6BgciLwfo7w/viewform?usp=sf_link) form will be monitored by Quinn D, and visible to Stephen Mell. If we add teammembers to ops, we will delete this form and make a new one. (UPDATE: form is no longer being monitored).
 
 ### Non-anonymous feedback
 
